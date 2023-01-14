@@ -16,6 +16,7 @@ Features
 Installed apps:
 
 * Django 1.11+
+* Docker
 * MySQLdb or Psycopg2
 * py.test_ and coverage setup
 * Pillow_
