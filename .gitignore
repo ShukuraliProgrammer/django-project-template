@@ -24,3 +24,7 @@
 /web/media
 /stats/
 {{ project_name }}/settings/local.py
+.venv
+/venv
+/.venv
+/src/.env
